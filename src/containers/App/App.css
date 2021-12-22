@@ -1,0 +1,12 @@
+/* Styles go here */
+.alert {
+  margin-top: 25px;
+}
+
+.navbar {
+  background-color: darkblue;
+}
+
+.navbar-title {
+  margin-left: 10px;
+}
